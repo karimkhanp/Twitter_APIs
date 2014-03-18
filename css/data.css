@@ -1,0 +1,79 @@
+.footer-working-area {
+    padding: 1em 0;
+    margin: 0 5%;
+    font-size: 14px;
+}
+
+.preview-container {
+    display: block;
+    width: 600px;
+    background-color: #E8E8E8;
+    margin:30px auto;
+    border: none;
+    padding-top: 10px;
+}
+.body-container {
+    margin: 0 5% 0 5%;
+    border-bottom: solid;
+    border-bottom-color: #7BBF6A;
+    padding: 20px 0px !important;
+}
+.img-container {
+    width: 116px;
+    height: 116px;
+    float: left;
+    background: transparent url(http://static.tumblr.com/snnreod/SFKl8fjp5/album_art.jpg) top left no-repeat;
+}
+.read-more-container {
+  margin: 0px !important;
+}
+
+.text p {
+    margin-bottom: 1.1em;
+    color: #424242;
+    font: 0.9em Georgia;
+    line-height: 130%;
+}
+.comments {
+    padding-left: 0.3em;
+    font-size: 0.8em;
+}
+.share {
+    float: right;
+    padding-left: 0.3em;
+}
+.sentiment-btn-custom {
+      background-color: hsl(0, 47%, 38%) !important;
+      background-repeat: repeat-x;
+      filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#cb7070", endColorstr="#8e3333");
+      background-image: -khtml-gradient(linear, left top, left bottom, from(#cb7070), to(#8e3333));
+      background-image: -moz-linear-gradient(top, #cb7070, #8e3333);
+      background-image: -ms-linear-gradient(top, #cb7070, #8e3333);
+      background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #cb7070), color-stop(100%, #8e3333));
+      background-image: -webkit-linear-gradient(top, #cb7070, #8e3333);
+      background-image: -o-linear-gradient(top, #cb7070, #8e3333);
+      background-image: linear-gradient(#cb7070, #8e3333);
+      border-color: #8e3333 #8e3333 hsl(0, 47%, 32%);
+      text-shadow: 0 1px 1px rgba(255, 255, 255, 0.39);
+      -webkit-font-smoothing: antialiased;
+      color: #FFF;
+}
+.blurb-title {
+    width: 85%;
+    float: left;
+    clear: right;
+    font-weight: lighter;
+    font-size: x-large !important;
+}
+.panel-heading-container {
+  border-bottom: solid;
+  border-bottom-color: #7BBF6A;
+  margin: 0 5%;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  display: inline-block;
+  width: 90%;
+}
+.rating-btn {
+  float: right;
+} 
